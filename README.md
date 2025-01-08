@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. 
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" height="3000px" width="3000px" align="center">
 
 
 
