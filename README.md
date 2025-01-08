@@ -87,5 +87,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 
 ![Snake Animation](https://github.com/Jithu-SM/Jithu-SM/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/Jithu-SM/Jithu-SM/blob/main/snake.svg)
+
 
 ###
