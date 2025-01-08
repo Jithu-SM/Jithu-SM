@@ -17,10 +17,13 @@ jobs:
         with:
           github_user_name: Jithu-SM
 
+      - name: Debug - List Files
+        run: ls -la
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add github-contribution-grid-snake.svg
-          git commit -m "Generated snake animation"
+          git commit -m "Generated snake animation" || echo "Nothing to commit"
           git push
