@@ -37,6 +37,36 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="lua logo"  />
 </div>
 
+  ### 🌟 About Me
+  - 🔭 I’m currently working on: [Your current project or area of interest]
+  - 🌱 I’m currently learning: [What you're learning, e.g., AI, web development, etc.]
+  - 💬 Ask me about: [Topics you're comfortable talking about]
+  - 📫 How to reach me: [Your email/LinkedIn/website link]
+  - ⚡ Fun fact: [Something interesting about you]
+
+---
+
+  ### 🛠️ Tech Stack
+  ![Languages](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Mobile-Kotlin-orange?logo=kotlin&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/Frontend-HTML5-red?logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/Frontend-CSS3-blue?logo=css3&logoColor=white)
+  
+  ---
+  
+  ### 📊 GitHub Stats
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+  
+  ---
+  
+  ### 🌐 Connect with Me
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio.com)
+  
+  ---
+  
+  Feel free to explore my repositories and leave a star ⭐ if you find something interesting!
 ###
 
 <div align="left">
