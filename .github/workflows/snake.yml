@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: Jithu-SM
+          output: dist/snake.svg
+
+      - name: Push to Repository
+        uses: stefanzweifel/push-action@v5
+        with:
+          branch: main
+          folder: dist
