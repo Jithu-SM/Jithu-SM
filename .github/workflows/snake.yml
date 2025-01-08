@@ -18,8 +18,15 @@ jobs:
           github_user_name: Jithu-SM
           output: dist/snake.svg
 
-      - name: Push to Repository
+      - name: Create Dist Directory
+        run: mkdir -p dist
+
+      - name: Move SVG to Dist
+        run: mv snake.svg dist/snake.svg
+
+      - name: Commit and Push Changes
         uses: ad-m/github-push-action@v0.6.0
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          folder: dist
+          force: true
