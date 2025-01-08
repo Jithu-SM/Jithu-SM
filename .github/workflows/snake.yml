@@ -19,7 +19,7 @@ jobs:
           output: dist/snake.svg
 
       - name: Push to Repository
-        uses: ad-m/github-push-action@v5
+        uses: ad-m/github-push-action
         with:
           branch: main
           folder: dist
