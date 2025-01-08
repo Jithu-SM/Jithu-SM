@@ -83,6 +83,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ###
 
 <br clear="both">
+![Visitor Count](https://komarev.com/ghpvc/?username=Jithu-SM&label=Profile+Views&color=blue&style=plastic)
 
 ![Snake Animation](https://github.com/Jithu-SM/Jithu-SM/blob/output/github-contribution-grid-snake.svg)
 
