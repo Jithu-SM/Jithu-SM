@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F74747&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Jithu+S;A+Passionate+Developer!;Welcome+to+my+GitHub+Profile!)](https://github.com/Jithu-SM)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. 
-<img src="https://tenor.com/view/shincore-wave-emoji-haha-gif-6087496909809532748" width="30px">
+<img src="https://media1.tenor.com/m/VHsiL8B8P0wAAAAd/shincore-wave-emoji.gif" width="30px">
 
 
 ###
