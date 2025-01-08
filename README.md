@@ -33,12 +33,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </div>
 
   ### 🌟 About Me
-  - 🔭 I’m currently working on: [Your current project or area of interest]
-  - 🌱 I’m currently learning: [What you're learning, e.g., AI, web development, etc.]
-  - 💬 Ask me about: [Topics you're comfortable talking about]
-  - 📫 How to reach me: [Your email/LinkedIn/website link]
-  - ⚡ Fun fact: [Something interesting about you]
-
+  - 🔭 I’m currently working on: A secret android file manager app 📁
+  - 🌱 I’m currently learning: Android with Kotlin
+  - 💬 Ask me about: Anything 
+  - 📫 How to reach me: jithus7559@gmail.com
+  - ⚡ Fun fact: I make music sometimes
 ---
 
   ### 🛠️ Tech Stack
@@ -51,13 +50,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   ---
   
   ### 📊 GitHub Stats
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jithu-SM&show_icons=true&theme=radical)
   
   ---
   
   ### 🌐 Connect with Me
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://your-portfolio.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithu-s)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://)
   
   ---
   
@@ -66,11 +65,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 <div align="left">
   <a href="https://www.youtube.com/@JithuS" ><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.youtube.com/@JithuS" ><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://www.youtube.com/@JithuS" ><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
+  <a href="https://www.youtube.com/@JithuS" ><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://www.youtube.com/@JithuS" ><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.youtube.com/@JithuS" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
