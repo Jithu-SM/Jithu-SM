@@ -1,5 +1,8 @@
+
 #
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F74747&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Jithu+S;A+Passionate+Developer;with+a+love+for+coding+and+problem+solving!;Welcome+to+my+GitHub+Profile!;Here+you+will+find;some+of+my+project,+contributions;and+a+bit+abot+me!)](https://github.com/Jithu-SM)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F74747&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Jithu+S;A+Passionate+Developer!;Welcome+to+my+GitHub+Profile!)](https://github.com/Jithu-SM)
+
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me.
 
 ###
 
