@@ -7,12 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 
 
-
-###
-
-[![GitHub Skyline](https://skyline.github.com/Jithu-SM/2025)](https://skyline.github.com/Jithu-SM)
-
-
 ###
 
 <div align="left">
@@ -63,7 +57,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   ---
   
   ### 🌐 Connect with Me
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithu-s)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jithu-S-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithu-s)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://)
   
   ---
