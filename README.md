@@ -82,6 +82,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Snake Animation](https://github.com/Jithu-SM/Jithu-SM/blob/main/snake.svg)
 
 
-###This Year
+### 🌐 2025
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jithu-SM&show_icons=true&theme=radical)
