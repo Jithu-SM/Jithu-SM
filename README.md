@@ -40,6 +40,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
   ### 🛠️ Tech Stack
   ![Languages](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus&logoColor=white)
+  ![Languages](https://img.shields.io/badge/Code-C-blue?logo=cplusplus&logoColor=white)
+  ![Languages](https://img.shields.io/badge/Code-C#-blue?logo=cplusplus&logoColor=white)
+  ![Languages](https://img.shields.io/badge/Code-Java-blue?logo=cplusplus&logoColor=white)
+  ![Languages](https://img.shields.io/badge/Code-Python-blue?logo=cplusplus&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Mobile-Kotlin-orange?logo=kotlin&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/Frontend-HTML5-red?logo=html5&logoColor=white)
@@ -57,7 +61,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   ---
   
   ### 🌐 Connect with Me
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithu-s)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-JithuS-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithu-s)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://)
   
   ---
