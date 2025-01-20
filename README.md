@@ -41,7 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   ### 🛠️ Tech Stack
   ![Languages](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus&logoColor=white)
   ![Languages](https://img.shields.io/badge/Code-C-blue?logo=c&logoColor=white)
-  ![Languages](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white)
+  ![Java](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white)
   ![Languages](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Mobile-Kotlin-orange?logo=kotlin&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript&logoColor=white)
