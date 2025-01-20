@@ -41,11 +41,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   ### 🛠️ Tech Stack
   ![Languages](https://img.shields.io/badge/Code-C++-blue?logo=cplusplus&logoColor=white)
   ![Languages](https://img.shields.io/badge/Code-C-blue?logo=c&logoColor=white)
-  ![Languages](https://img.shields.io/badge/Code-Csharp-blue?logo=csharp&logoColor=white)
-  ![Languages](https://img.shields.io/badge/Code-Java-blue?logo=cplusplus&logoColor=white)
-  ![Languages](https://img.shields.io/badge/Code-Python-blue?logo=cplusplus&logoColor=white)
+  ![Languages](https://img.shields.io/badge/Code-Java-blue?logo=java&logoColor=white)
+  ![Languages](https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white)
   ![Kotlin](https://img.shields.io/badge/Mobile-Kotlin-orange?logo=kotlin&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/Web-JavaScript-yellow?logo=javascript&logoColor=white)
+  ![PHP](https://img.shields.io/badge/Web-PHP-yellow?logo=php&logoColor=white)
   ![HTML5](https://img.shields.io/badge/Frontend-HTML5-red?logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/Frontend-CSS3-blue?logo=css3&logoColor=white)
   
