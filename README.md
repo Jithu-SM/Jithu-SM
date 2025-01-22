@@ -40,14 +40,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ### 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/Code-C-blue?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/Code-C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/Code-C-blue?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Code-C++-00599C?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/Code-C%23-239120?logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/Code-PHP-777BB4?logo=php&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Code-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Code-Lua-2C2D72?logo=lua&logoColor=white)
-![PHP](https://img.shields.io/badge/Code-PHP-777BB4?logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-121011?logo=gnu-bash&logoColor=white)
 ![SAS](https://img.shields.io/badge/Code-SAS-1A1A1A?logo=sas&logoColor=blue)
 
