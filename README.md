@@ -99,6 +99,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![LaTeX](https://img.shields.io/badge/Other-LaTeX-008080?logo=latex&logoColor=white)
 ![Figma](https://img.shields.io/badge/Other-Figma-F24E1E?logo=figma&logoColor=white)
 
+![Microsoft Excel](https://img.shields.io/badge/Productivity-Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Productivity-Microsoft_Word-2B579A?logo=microsoftword&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Productivity-Microsoft_PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Productivity-Google_Sheets-34A853?logo=googlesheets&logoColor=white)
+![Google Docs](https://img.shields.io/badge/Productivity-Google_Docs-4285F4?logo=googledocs&logoColor=white)
+
 ![Data Structures](https://img.shields.io/badge/Theory-Data_Structures-0078D4?logo=thealgorithms&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Theory-Algorithms-008080?logo=codeforces&logoColor=white)
 ![Design Patterns](https://img.shields.io/badge/Theory-Design_Patterns-FF6F61?logo=bookstack&logoColor=white)
