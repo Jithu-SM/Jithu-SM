@@ -106,7 +106,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![OOP](https://img.shields.io/badge/Theory-OOP-4A90E2?logo=oop&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Theory-Distributed_Systems-000000?logo=hadoop&logoColor=white)
 ![Operating Systems](https://img.shields.io/badge/Theory-Operating_Systems-EE4C2C?logo=linux&logoColor=white)
-![Compiler Design](https://img.shields.io/badge/Theory-Compiler_Design-607D8B?logo=antlr&logoColor=white)
 ![Networking](https://img.shields.io/badge/Theory-Networking-0A66C2?logo=cisco&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Theory-Machine_Learning-FF6F00?logo=machinelearning&logoColor=white)
 
