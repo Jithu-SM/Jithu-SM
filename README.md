@@ -49,6 +49,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Lua](https://img.shields.io/badge/Code-Lua-2C2D72?logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-121011?logo=gnu-bash&logoColor=white)
+![SAS](https://img.shields.io/badge/Code-SAS-1A1A1A?logo=sas&logoColor=blue)
 
 ![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css3&logoColor=white)
@@ -69,6 +70,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/Database-MariaDB-003545?logo=mariadb&logoColor=white)
+
+![Apache](https://img.shields.io/badge/Web_Server-Apache-D22128?logo=apache&logoColor=white)
+
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+
+![XAMPP](https://img.shields.io/badge/Stack-XAMPP-FB7A24?logo=xampp&logoColor=white)
+![LAMP](https://img.shields.io/badge/Stack-LAMP-0A0FFF?logo=lamp&logoColor=white)
+![WAMP](https://img.shields.io/badge/Stack-WAMP-009688?logo=wamp&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Tool-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -97,6 +109,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Compiler Design](https://img.shields.io/badge/Theory-Compiler_Design-607D8B?logo=antlr&logoColor=white)
 ![Networking](https://img.shields.io/badge/Theory-Networking-0A66C2?logo=cisco&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Theory-Machine_Learning-FF6F00?logo=machinelearning&logoColor=white)
+
+![FL Studio](https://img.shields.io/badge/Music_Production-FL_Studio-F47820?logo=flstudio&logoColor=white)
+![n-Track Studio](https://img.shields.io/badge/Music_Production-n--Track_Studio-3C3C3C?logo=musicbrainz&logoColor=white)
+![Ableton Live](https://img.shields.io/badge/Music_Production-Ableton_Live-000000?logo=abletonlive&logoColor=white)
 
   
   ---
