@@ -40,61 +40,63 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ### 🛠️ Tech Stack
 
-#### **Languages**
 ![C](https://img.shields.io/badge/Code-C-blue?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/Code-C++-00599C?logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Code-Kotlin-0095D5?logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Code-Ruby-CC342D?logo=ruby&logoColor=white)
+![Lua](https://img.shields.io/badge/Code-Lua-2C2D72?logo=lua&logoColor=white)
 ![PHP](https://img.shields.io/badge/Code-PHP-777BB4?logo=php&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Code-Shell_Script-121011?logo=gnu-bash&logoColor=white)
 
-#### **Web Development**
 ![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
-#### **Frontend Frameworks**
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Frontend-Angular-DD0031?logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?logo=next.js&logoColor=white)
 
-#### **Backend Frameworks**
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Backend-Flask-000000?logo=flask&logoColor=white)
 
-#### **Mobile Development**
 ![Android](https://img.shields.io/badge/Mobile-Android-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/Mobile-iOS-000000?logo=apple&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Mobile-Flutter-02569B?logo=flutter&logoColor=white)
 
-#### **Databases**
 ![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)
 
-#### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Tool-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?logo=github&logoColor=white)
 
-#### **Cloud Platforms**
 ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Cloud-Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 
-#### **AI/ML**
 ![TensorFlow](https://img.shields.io/badge/AI/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/AI/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI/OpenAI-412991?logo=openai&logoColor=white)
 
-#### **Others**
 ![Markdown](https://img.shields.io/badge/Other-Markdown-000000?logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/Other-LaTeX-008080?logo=latex&logoColor=white)
 ![Figma](https://img.shields.io/badge/Other-Figma-F24E1E?logo=figma&logoColor=white)
+
+![Data Structures](https://img.shields.io/badge/Theory-Data_Structures-0078D4?logo=thealgorithms&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Theory-Algorithms-008080?logo=codeforces&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Theory-Design_Patterns-FF6F61?logo=bookstack&logoColor=white)
+![Database Design](https://img.shields.io/badge/Theory-Database_Design-6B9080?logo=database&logoColor=white)
+![OOP](https://img.shields.io/badge/Theory-OOP-4A90E2?logo=oop&logoColor=white)
+![Distributed Systems](https://img.shields.io/badge/Theory-Distributed_Systems-000000?logo=hadoop&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/Theory-Operating_Systems-EE4C2C?logo=linux&logoColor=white)
+![Compiler Design](https://img.shields.io/badge/Theory-Compiler_Design-607D8B?logo=antlr&logoColor=white)
+![Networking](https://img.shields.io/badge/Theory-Networking-0A66C2?logo=cisco&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Theory-Machine_Learning-FF6F00?logo=machinelearning&logoColor=white)
 
   
   ---
