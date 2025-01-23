@@ -1,4 +1,4 @@
-<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/banner.svg">
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F74747&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Jithu+S;A+Passionate+Developer!;Welcome+to+my+GitHub+Profile!)](https://github.com/Jithu-SM)
 
