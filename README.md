@@ -30,6 +30,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   <img width="12" />
 </div>
 
+###
+
+<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/banner.svg" length="100%" hight=100 >
+
   ### 🌟 About Me
   - 🔭 I’m currently working on: A secret android file manager app 📁
   - 🌱 I’m currently learning: Android with Kotlin
