@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </div>
 
 # Listen to my latest song!
-
-<iframe style="border-radius:12 px" src="https://open.spotify.com/embed/track/6xrX1hXJsPGMoWcY5kezIV?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+# Listen to my latest song!
+[Click here to listen on Spotify](https://open.spotify.com/track/6xrX1hXJsPGMoWcY5kezIV?si=f671d980c1c74059)
 
 ###
 <img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/banner.svg" width="1000" height="300">
