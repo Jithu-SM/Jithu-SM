@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ###
 
-<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/banner.svg" length="100%" hight="300px">
+<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/banner.svg" width="1000" height="300">
 
   ### 🌟 About Me
   - 🔭 I’m currently working on: A secret android file manager app 📁
