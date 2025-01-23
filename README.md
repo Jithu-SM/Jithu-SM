@@ -31,7 +31,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </div>
 
 # Listen to my latest song!
-# Listen to my latest song!
 [Click here to listen on Spotify](https://open.spotify.com/track/6xrX1hXJsPGMoWcY5kezIV?si=f671d980c1c74059)
 
 ###
