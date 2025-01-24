@@ -5,6 +5,19 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right">
 
+## 🌟 GitHub Stats:
+![Profile Views](https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square)  
+![GitHub Followers](https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square)  
+![GitHub Stars](https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square)
+![Visitors](https://count.getloli.com/get/@Jithu-SM?theme=rule34)
+
+
+## 📈 My Stats:
+![Jithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jithu-SM&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jithu-SM&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+
+---
 
 
 ###
