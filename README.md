@@ -12,11 +12,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Visitors](https://count.getloli.com/get/@Jithu-SM?theme=rule34)
 
 
-## 📈 My Stats:
-![Jithu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jithu-SM&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jithu-SM&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-
-
 ---
 
 
