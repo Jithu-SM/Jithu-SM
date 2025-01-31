@@ -1,7 +1,7 @@
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F74747&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Jithu+S;A+Passionate+Developer!;Welcome+to+my+GitHub+Profile!)](https://github.com/Jithu-SM)
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. 
+Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square)  
 ![GitHub Stars](https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square)  
