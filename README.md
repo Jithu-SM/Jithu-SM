@@ -2,6 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F74747&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Jithu+S;A+Passionate+Developer!;Welcome+to+my+GitHub+Profile!)](https://github.com/Jithu-SM)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. <br>
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square)  
 ![GitHub Stars](https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square)  
@@ -74,6 +77,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Tool-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-181717?logo=github&logoColor=white)
+![LaTeX](https://img.shields.io/badge/Tool-LaTeX-008080?logo=latex&logoColor=white)
+![Figma](https://img.shields.io/badge/Tool-Figma-F24E1E?logo=figma&logoColor=white)
+
 
 ![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-0078D4?logo=microsoftazure&logoColor=white)
@@ -82,30 +88,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![TensorFlow](https://img.shields.io/badge/AI/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/AI/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI/OpenAI-412991?logo=openai&logoColor=white)
-
-![Markdown](https://img.shields.io/badge/Other-Markdown-000000?logo=markdown&logoColor=white)
-![LaTeX](https://img.shields.io/badge/Other-LaTeX-008080?logo=latex&logoColor=white)
-![Figma](https://img.shields.io/badge/Other-Figma-F24E1E?logo=figma&logoColor=white)
-
-![Microsoft Excel](https://img.shields.io/badge/Productivity-Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Productivity-Microsoft_Word-2B579A?logo=microsoftword&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Productivity-Microsoft_PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Productivity-Google_Sheets-34A853?logo=googlesheets&logoColor=white)
-![Google Docs](https://img.shields.io/badge/Productivity-Google_Docs-4285F4?logo=googledocs&logoColor=white)
-
-![Data Structures](https://img.shields.io/badge/Theory-Data_Structures-0078D4?logo=thealgorithms&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Theory-Algorithms-008080?logo=codeforces&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Theory-Design_Patterns-FF6F61?logo=bookstack&logoColor=white)
-![Database Design](https://img.shields.io/badge/Theory-Database_Design-6B9080?logo=database&logoColor=white)
-![OOP](https://img.shields.io/badge/Theory-OOP-4A90E2?logo=oop&logoColor=white)
-![Distributed Systems](https://img.shields.io/badge/Theory-Distributed_Systems-000000?logo=hadoop&logoColor=white)
-![Operating Systems](https://img.shields.io/badge/Theory-Operating_Systems-EE4C2C?logo=linux&logoColor=white)
-![Networking](https://img.shields.io/badge/Theory-Networking-0A66C2?logo=cisco&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Theory-Machine_Learning-FF6F00?logo=machinelearning&logoColor=white)
-
-![FL Studio](https://img.shields.io/badge/Music_Production-FL_Studio-F47820?logo=flstudio&logoColor=white)
-![n-Track Studio](https://img.shields.io/badge/Music_Production-n--Track_Studio-3C3C3C?logo=musicbrainz&logoColor=white)
-![Ableton Live](https://img.shields.io/badge/Music_Production-Ableton_Live-000000?logo=abletonlive&logoColor=white)
 
   
   ---
