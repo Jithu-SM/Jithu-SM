@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <!--END_SECTION:waka-->
 
 
-![Metrics](https://github.com/your-username/your-username/blob/main/github-metrics.svg)
+![Metrics](https://github.com/Jithu-SM/Jithu-SM/blob/main/github-metrics.svg)
 
 ---
 
