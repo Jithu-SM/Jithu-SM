@@ -8,7 +8,7 @@ on:
     - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
 permissions:
-  contents: write  # Allows pushing changes
+  contents: write  # Grants write permission to push changes
 
 jobs:
   generate:
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # We will use GITHUB_TOKEN instead
+          persist-credentials: false  # Disable default credentials
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
@@ -27,10 +27,11 @@ jobs:
 
       - name: Commit and Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use GitHub's built-in token
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use built-in token for authentication
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add dist/github-contribution-grid-snake.svg
           git commit -m "Generated snake animation" || echo "Nothing to commit"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/Jithu-SM/Jithu-SM.git
           git push origin main
