@@ -18,6 +18,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
+![Metrics](https://github.com/your-username/your-username/blob/main/github-metrics.svg)
+
 ---
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right">
