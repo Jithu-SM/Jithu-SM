@@ -22,8 +22,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "Jithu-SM"
+          git config --global user.email "jithusmusic@gmail.com"
           git add github-contribution-grid-snake.svg
           git commit -m "Generated snake animation" || echo "Nothing to commit"
           git push https://<PAT_TOKEN>@github.com/Jithu-SM/Jithu-SM.git
