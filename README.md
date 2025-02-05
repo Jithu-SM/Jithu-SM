@@ -10,14 +10,29 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   <img src="https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square" />
   <img src="https://wakatime.com/badge/user/e952d4d7-b591-4f25-9cc5-372f864cae94.svg" />
-</div> 
+</div>
+
   ---
 
 ## ⏳ Weekly Coding Stats:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+---
+
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right">
+
+ ---
+  
+  ### 📊 GitHub Stats
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jithu-SM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jithu-SM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jithu-SM&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" height="250" />
+
+</div>
+
+  ---
 
 ### 🌟 Visitors:
 ![Visitors](https://count.getloli.com/get/@Jithu-SM?theme=rule34)
@@ -25,8 +40,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ---
 
-###
-<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/banner.svg" width="1000" height="300">
 
   ### 🌟 About Me
   - 🔭 I’m currently working on: A secret android file manager app 📁
@@ -98,17 +111,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![OpenAI](https://img.shields.io/badge/AI/OpenAI-412991?logo=openai&logoColor=white)
 
   
-  ---
-  
-  ### 📊 GitHub Stats
-  <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jithu-SM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jithu-SM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jithu-SM&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" height="250" />
-
-</div>
-
-  ---
+ ---
   
   ### 🌐 Connect with Me
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-JithuS-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/jithu-s)
@@ -129,6 +132,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </div>
 
 ---
+###
+<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/banner.svg" width="1000" height="300">
 
 ### 🐍 GitHub Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Jithu-SM/Jithu-SM/main/dist/github-contribution-grid-snake.svg)
