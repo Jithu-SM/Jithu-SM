@@ -13,4 +13,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
-          config_timezone: Asia/Kolkata  # Change to your timezone
+          config_timezone: Asia/Kolkata  # Set your timezone
+          output_action: gist  # Change this to 'gist' or 'repository'
