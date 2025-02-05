@@ -3,14 +3,14 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. <br>
 
----
-
   ---
+<div align="center">
+
   <img src="https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square" />  
   <img src="https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square" />
   <img src="https://wakatime.com/badge/user/e952d4d7-b591-4f25-9cc5-372f864cae94.svg" />
-  
+</div> 
   ---
 
 ## ⏳ Weekly Coding Stats:
