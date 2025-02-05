@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ---
 
   ---
-  ![Profile Views](https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square)  
+  <img src="https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square" />  
   ![GitHub Stars](https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square)
   ![GitHub Followers](https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square)  
   ---
