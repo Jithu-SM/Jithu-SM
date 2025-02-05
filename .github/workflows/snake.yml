@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
 
 jobs:
   generate:
@@ -16,16 +18,15 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Jithu-SM
+          outputs: dist/github-contribution-grid-snake.svg
 
       - name: Debug - List Files
-        run: ls -la
+        run: ls -la dist/
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "Jithu-SM"
-          git config --global user.email "jithusmusic@gmail.com"
-          git add github-contribution-grid-snake.svg
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add dist/github-contribution-grid-snake.svg
           git commit -m "Generated snake animation" || echo "Nothing to commit"
-          git push https://<PAT_TOKEN>@github.com/Jithu-SM/Jithu-SM.git
-        env:
-          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+          git push
