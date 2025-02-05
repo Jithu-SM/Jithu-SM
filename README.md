@@ -4,12 +4,11 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. <br>
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square)  
-![GitHub Stars](https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jithu-SM&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j)
-
+<div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square)  
+  ![GitHub Stars](https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square)
+  ![GitHub Followers](https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square)  
+</div>
 ## ⏳ Weekly Coding Stats:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -101,6 +100,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jithu-SM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jithu-SM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=20&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jithu-SM&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j)
+
 </div>
 
   ---
@@ -124,6 +125,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </div>
 
 ###
+![Snake animation](https://raw.githubusercontent.com/Jithu-SM/Jithu-SM/main/dist/github-contribution-grid-snake.svg)
 
 <img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/github-contribution-grid-snake.svg">
 
