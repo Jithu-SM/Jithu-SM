@@ -8,6 +8,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square)  
 ![GitHub Stars](https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j)
+
+## ⏳ Weekly Coding Stats:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right">
 
