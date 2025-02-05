@@ -4,11 +4,13 @@
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. <br>
 
 ---
-<div align="center">
+
+  ---
   ![Profile Views](https://komarev.com/ghpvc/?username=Jithu-SM&color=blue&style=flat-square)  
   ![GitHub Stars](https://img.shields.io/github/stars/Jithu-SM?label=Stars&style=flat-square)
   ![GitHub Followers](https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square)  
-</div>
+  ---
+
 ## ⏳ Weekly Coding Stats:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -124,11 +126,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   <a href="https://www.linkedin.com/in/jithu-s" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
-###
+---
+
+### 🐍 GitHub Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/Jithu-SM/Jithu-SM/main/dist/github-contribution-grid-snake.svg)
 
-<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/github-contribution-grid-snake.svg">
-
+---
 
 # Listen to my latest song!
 [Click here to listen on Spotify](https://open.spotify.com/track/6xrX1hXJsPGMoWcY5kezIV?si=f671d980c1c74059)
