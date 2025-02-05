@@ -25,6 +25,6 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add github-metrics.svg
+          git add dist/github-metrics.svg
           git commit -m "Update GitHub metrics"
           git push
