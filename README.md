@@ -13,9 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </div>
 
   ---
-### Play Chess with me :)
+### ♟️ My Latest Chess Game
 
-[![Play Chess](https://img.shields.io/badge/Play-Chess-orange?style=for-the-badge&logo=chess)](https://Jithu-SM.github.io/chess-game/)
+![Chess Board](https://raw.githubusercontent.com/Jithu-SM/chess-game/main/chess-board.svg)
+
 
   
   ---
