@@ -13,6 +13,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </div>
 
   ---
+### Play Chess with me :)
+
+[Play Chess on My Profile](https://Jithu-SM.github.io/chess-game/)
+
+  
+  ---
 
 ### ⏳ Weekly Coding Stats:
 <!--START_SECTION:waka-->
