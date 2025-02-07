@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   ---
 ### Play Chess with me :)
 
-[Play Chess on My Profile](https://Jithu-SM.github.io/chess-game/)
+[![Play Chess](https://img.shields.io/badge/Play-Chess-orange?style=for-the-badge&logo=chess)](https://Jithu-SM.github.io/chess-game/)
 
   
   ---
