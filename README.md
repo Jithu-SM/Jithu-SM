@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <!--END_SECTION:waka-->
 
 
-![Metrics](https://github.com/Jithu-SM/Jithu-SM/blob/main/github-metrics.svg)
 
 ---
 
@@ -145,3 +144,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 # Listen to my latest song!
 [Click here to listen on Spotify](https://open.spotify.com/track/6xrX1hXJsPGMoWcY5kezIV?si=f671d980c1c74059)
+
+---
+
+![Metrics](https://github.com/Jithu-SM/Jithu-SM/blob/main/github-metrics.svg)
+
