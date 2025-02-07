@@ -47,6 +47,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ### 🛠️ Tech Stack
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right">
+
+
 ![Python](https://img.shields.io/badge/Code-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Code-Java-007396?logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/Code-C-blue?logo=c&logoColor=white)
@@ -106,7 +109,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![PyTorch](https://img.shields.io/badge/AI/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI/OpenAI-412991?logo=openai&logoColor=white)
 
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right">
 
  ---
   
