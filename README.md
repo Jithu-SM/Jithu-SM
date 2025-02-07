@@ -18,12 +18,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-
----
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right">
-
  ---
   
   ### 📊 GitHub Stats
@@ -112,7 +106,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![PyTorch](https://img.shields.io/badge/AI/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI/OpenAI-412991?logo=openai&logoColor=white)
 
-  
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" align="right">
+
  ---
   
   ### 🌐 Connect with Me
