@@ -11,13 +11,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   <img src="https://img.shields.io/github/followers/Jithu-SM?label=Followers&style=flat-square" />
   <img src="https://wakatime.com/badge/user/e952d4d7-b591-4f25-9cc5-372f864cae94.svg" />
 </div>
-
-  ---
-### ♟️ My Latest Chess Game
-
-![Chess Board](https://raw.githubusercontent.com/Jithu-SM/chess-game/main/chess-board.svg)
-
-
   
   ---
 
@@ -147,7 +140,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ---
 
 ### Listen to my latest song!
+
 [Click here to listen on Spotify](https://open.spotify.com/track/6xrX1hXJsPGMoWcY5kezIV?si=f671d980c1c74059)
+
+### ♟️ My Latest Chess Game
+
+![Chess Board](https://raw.githubusercontent.com/Jithu-SM/chess-game/main/chess-board.svg)
 
 ---
 
