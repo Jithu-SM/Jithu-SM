@@ -33,7 +33,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ### 🌟 Visitors:
 ![Visitors](https://count.getloli.com/get/@Jithu-SM?theme=rule34)
 
-
 ---
 
 
