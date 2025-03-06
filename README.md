@@ -142,7 +142,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ### Listen to my latest song!
 
-[Click here to listen on Spotify](https://open.spotify.com/track/6xrX1hXJsPGMoWcY5kezIV?si=f671d980c1c74059)
+<a href="https://bit.ly/JS-FL"> <img scr="https://github.com/Jithu-SM/Jithu-SM/blob/output/assets/fading-light-cover.jpg" height="3000" width="3000"/> </a>
 
 ---
 
