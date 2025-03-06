@@ -43,11 +43,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 
   ### 🌟 About Me
-  - 🔭 I’m currently working on: A secret android file manager app 📁
-  - 🌱 I’m currently learning: Android with Kotlin
-  - 💬 Ask me about: Kotlin, Java, Lua 
-  - 📫 How to reach me: jithusmusic@gmail.com
-  - ⚡ Fun fact: I make music sometimes
+- 🔭 I’m currently working on: A secret android file manager app 📁
+- 🌱 I’m currently learning: Android with Kotlin
+- 💬 Ask me about: Kotlin, Java, Lua 
+- 📫 How to reach me: jithusmusic@gmail.com
+- ⚡ Fun fact: I make music sometimes
 ---
 
 ### 🛠️ Tech Stack
