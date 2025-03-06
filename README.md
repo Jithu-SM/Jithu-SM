@@ -144,10 +144,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 [Click here to listen on Spotify](https://open.spotify.com/track/6xrX1hXJsPGMoWcY5kezIV?si=f671d980c1c74059)
 
-### ♟️ My Latest Chess Game
-
-![Chess Board](https://raw.githubusercontent.com/Jithu-SM/chess-game/main/chess-board.svg)
-
 ---
 
 ![Metrics](https://github.com/Jithu-SM/Jithu-SM/blob/main/github-metrics.svg)
