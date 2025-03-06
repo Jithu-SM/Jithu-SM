@@ -1,8 +1,6 @@
 #
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F74747&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+Jithu;I'm+a+Web+Developer!;Welcome+to+my+GitHub+Profile!)](https://github.com/Jithu-SM)
 
-<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/assets/banner.jpg" width="100%" alt="oops! banner didnt load, dang it!"/>
-
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. <br>
 
   ---
@@ -15,16 +13,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 </div>
 
 
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jithu-sm&label=Profile%20views&color=0e75b6&style=flat-square" alt="jithu-sm" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=jithu-sm&label=Profile%20views&color=101913&style=flat-square" alt="jithu-sm" /> </p>
 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jithu-sm" alt="jithu-sm" /></a> </p>
 
 
   ---
 
-### ⏳ Weekly Coding Stats:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/assets/banner.jpg" width="100%" alt="oops! banner didnt load, dang it!"/>
+
 
  ---
   
