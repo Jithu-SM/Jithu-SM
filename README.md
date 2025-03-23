@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   <img src="https://wakatime.com/badge/user/e952d4d7-b591-4f25-9cc5-372f864cae94.svg" />
 </div>
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jithu-sm" alt="jithu-sm" /></a> </p>
+  <p align="center"> <a href="https://www.github.com/jithu-sm"><img src="https://github-profile-trophy.vercel.app/?username=jithu-sm&theme=matrix" alt="jithu-sm" /></a> </p>
 
 
   ---
