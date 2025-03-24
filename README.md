@@ -15,11 +15,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   <p align="center"> <a href="https://www.github.com/jithu-sm"><img src="https://github-profile-trophy.vercel.app/?username=jithu-sm&theme=matrix" alt="jithu-sm" /></a> </p>
 
 
-  ---
-
-<img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/assets/banner.jpg" width="100%" alt="oops! banner didnt load, dang it!"/>
-
-
  ---
   
   ### 📊 GitHub Stats
