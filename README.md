@@ -137,8 +137,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ### Listen to my latest song!
 
-![I'm fine](https%3A%2F%2Fsong.link%2Fluka-mg-im-fine&theme=dark" frameborder="0" allowfullscreen sandbox="allow-same-origin allow-scripts allow-presentation allow-popups allow-popups-to-escape-sandbox" allow="clipboard-read; clipboard-write")
-
+[![I'm fine](https%3A%2F%2Fsong.link%2Fluka-mg-im-fine&theme=dark)]
 ---
 
 <a href="https://bit.ly/JS-FL"><img src="https://github.com/Jithu-SM/Jithu-SM/blob/output/assets/fading-light-cover.jpg" height="300" width="300" alt="fading-light"></a>
