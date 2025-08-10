@@ -56,15 +56,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/Code-Lua-2C2D72?logo=lua&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Code-Shell_Script-121011?logo=gnu-bash&logoColor=white)
-![SAS](https://img.shields.io/badge/Code-SAS-1A1A1A?logo=sas&logoColor=blue)
 
 ![HTML5](https://img.shields.io/badge/Frontend-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/Frontend-CSS3-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Frontend-Angular-DD0031?logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Frontend-Next.js-000000?logo=next.js&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white)
