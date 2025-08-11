@@ -3,10 +3,10 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. Here you will find some of my projects, contributions, and a bit about me. <br>
 
-  ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jithu-SM&theme=github_dark)
-
   ---
 <div align="center">
+  
+  ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jithu-SM&theme=github_dark)
 
   <img src="https://komarev.com/ghpvc/?username=Jithu-SM&color=101913&style=flat-square" />  
   <img src="https://img.shields.io/github/stars/Jithu-SM?label=Stars&color=101913&style=flat-square" />
