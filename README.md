@@ -14,6 +14,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
   <p align="center"> <a href="https://www.github.com/jithu-sm"><img src="https://github-profile-trophy.vercel.app/?username=jithu-sm&theme=matrix" alt="jithu-sm" /></a> </p>
 
+  ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jithu-sm&theme=github_dark)
+
+
 
  ---
   
