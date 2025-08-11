@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   ### 📊 GitHub Stats
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jithu-SM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jithu-SM&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=vision-friendly-dark&hide_border=true" width="600" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jithu-SM&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=20&theme=vision-friendly-dark&hide_border=true&card_width=600" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Jithu-SM&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" height="250" />
 
 </div>
