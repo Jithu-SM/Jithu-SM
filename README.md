@@ -135,7 +135,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ---
 
-### Listen to my latest song!
+### Listen to my latest song! :)
 
 [![I'm fine](https://odesli.co/embed?url=https%3A%2F%2Fsong.link%2Fluka-mg-im-fine&theme=dark)]
 ---
