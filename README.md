@@ -85,9 +85,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 
-![XAMPP](https://img.shields.io/badge/Stack-XAMPP-FB7A24?logo=xampp&logoColor=white)
-![LAMP](https://img.shields.io/badge/Stack-LAMP-0A0FFF?logo=lamp&logoColor=white)
-![WAMP](https://img.shields.io/badge/Stack-WAMP-009688?logo=wamp&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Tool-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Tool-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
