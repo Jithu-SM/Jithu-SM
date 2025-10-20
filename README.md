@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=05peasbxktqtul9r7rkyxxp5n&cover_image=true&theme=novatorem&show_offline=true&background_color=b8b8b8&interchange=true&profanity=true&bar_color=f40b17&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=05peasbxktqtul9r7rkyxxp5n&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=05peasbxktqtul9r7rkyxxp5n&cover_image=true&theme=novatorem&show_offline=true&background_color=bab5b5&interchange=false&profanity=true&bar_color=ff000d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=05peasbxktqtul9r7rkyxxp5n&redirect=true)
 
 </div>
 ---
@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 - 🔭 I’m currently working on: A secret android file manager app 📁
 - 🌱 I’m currently learning: Android with Kotlin
 - 💬 Ask me about: Kotlin, Java, Lua 
-- 📫 How to reach me: jithusmusic@gmail.com
+- 📫 How to reach me: jithusm@yahoo.com
 - ⚡ Fun fact: I make music sometimes
 ---
 
