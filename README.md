@@ -35,6 +35,15 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ---
 
+#### 🎵 
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=05peasbxktqtul9r7rkyxxp5n&cover_image=true&theme=novatorem&show_offline=true&background_color=b8b8b8&interchange=true&profanity=true&bar_color=f40b17&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=05peasbxktqtul9r7rkyxxp5n&redirect=true)
+
+</div>
+---
+
 
   ### 🌟 About Me
 - 🔭 I’m currently working on: A secret android file manager app 📁
@@ -143,4 +152,3 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
 
 ![Metrics](https://github.com/Jithu-SM/Jithu-SM/blob/main/github-metrics.svg)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=05peasbxktqtul9r7rkyxxp5n&cover_image=true&theme=spotify-embed&show_offline=true&background_color=b8b8b8&interchange=true&profanity=true&bar_color=f40b17&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=05peasbxktqtul9r7rkyxxp5n&redirect=true)
