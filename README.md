@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding 
   <img src="https://komarev.com/ghpvc/?username=Jithu-SM&color=101913&style=flat-square" />  
   <img src="https://img.shields.io/github/stars/Jithu-SM?label=Stars&color=101913&style=flat-square" />
   <img src="https://img.shields.io/github/followers/Jithu-SM?label=Followers&color=101913&style=flat-square" />
-  <img src="https://wakatime.com/badge/user/e952d4d7-b591-4f25-9cc5-372f864cae94.svg" />
+  <img src="https://wakatime.com/badge/user/e952d4d7-b591-4f25-9cc5-372f864cae94.svg" alt="Time spend coding"/>
 </div>
 
   <p align="center"> <a href="https://www.github.com/jithu-sm"><img src="https://github-profile-trophy.vercel.app/?username=jithu-sm&theme=matrix" alt="jithu-sm" /></a> </p>
